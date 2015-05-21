@@ -1,0 +1,15 @@
+# Alias
+
+alias cdb='cdargs'
+alias dmount='diskutil unmount'
+alias kangtodo='sudo vim /etc/motd'
+alias gmvault='~/gmvault/gmvault-v1.8.1-beta/bin/gmvault'
+alias proxify='/Users/danielkang/Downloads/proxify-Darwin-1.2/proxify'
+alias ls='ls -lah'
+alias macup='softwareupdate -ivr'
+alias burrito='mkvirtualenv'
+alias myip='curl ipinfo.io'
+alias kivy='/Applications/Kivy.app/Contents/MacOS/Kivy'
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'

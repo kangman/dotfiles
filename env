@@ -1,0 +1,19 @@
+#Color configuration
+   export CLICOLOR=1
+   export LSCOLORS=GxFxCxDxBxegedabagaced
+
+#Environmental Variables for rackspace
+  export OS_AUTH_URL=https://identity.api.rackspacecloud.com/v2.0/
+  export OS_USERNAME=daniel.kang
+  export OS_TENANT_ID=929245
+  export OS_REGION_NAME=IAD
+  export OS_PASSWORD=HYPQ5QVbJNFhgoLwcXgg
+
+#Bash history controls
+export HISTCONTROL=ignoreboth
+
+#path configuration
+export PATH=/usr/local/sbin:$PATH
+
+#Vagrant Atlas ENV
+export ATLAS_TOKEN=**5zdQ
